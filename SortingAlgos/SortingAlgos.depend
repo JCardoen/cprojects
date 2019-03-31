@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553948006 source:w:\algoprojectsc\sortingalgos\main.c
+	<stdio.h>
+	<stdlib.h>
+
